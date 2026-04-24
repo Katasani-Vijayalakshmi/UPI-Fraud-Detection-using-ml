@@ -1,0 +1,20 @@
+# Ignore zip files
+*.zip
+.venv/
+.venv*
+venv/
+venv*
+.env/
+.env*
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.db
+*.sqlite3
+*.egg-info/
+*.log
+*.DS_Store
+Thumbs.db
+node_modules/
+*.ipynb_checkpoints
